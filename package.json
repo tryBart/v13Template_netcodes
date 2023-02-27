@@ -1,0 +1,15 @@
+{
+  "name": "templatev13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yes",
+  "license": "ISC",
+  "dependencies": {
+    "discord-html-transcripts": "^2.5.8",
+    "discord.js": "^13.8.1"
+  }
+}
